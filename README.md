@@ -1,2 +1,37 @@
-# Soccer-Player-Action-Recognition
-A GUI which enables action classification and labelling of soccer player’s action in a broadcast video based on teams.    Focus Areas:  dribbling,kicking, running and passing using over 2000 sample images Methodology Create a flask application Connect to the User Interface(React) Use the trained model to process video frames Detect the skeleton(s) in each frame Label each detected skeleton(s) Give live analytics from the processing based on each team. Display the processed frames in a video format for the user. Get real-time action metrics  for each team.
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/oguchi-ebube/Soccer-Player-Action-Recognition/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oguchi-ebube/Soccer-Player-Action-Recognition/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
